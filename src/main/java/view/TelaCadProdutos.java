@@ -5,10 +5,7 @@ import model.Produtos;
 import java.awt.event.KeyEvent;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Pedro
- */
+
 public class TelaCadProdutos extends javax.swing.JFrame {
 
     Produtos objProduto = new Produtos();

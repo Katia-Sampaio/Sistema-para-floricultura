@@ -9,7 +9,7 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import model.Usuario;
 
-/* @author gisella.meireli */
+
 public class UsuariosDAO {
     
     static String URL = "jdbc:mysql://localhost:3306/floricultura";

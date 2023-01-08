@@ -13,10 +13,7 @@ import static javax.swing.JOptionPane.WARNING_MESSAGE;
 import javax.swing.table.DefaultTableModel;
 import model.RelSintetico;
 
-/**
- *
- * @author Marcelo
- */
+
 public class RelatorioSintetico extends javax.swing.JFrame {
     TelaBuscaCliente BuscaCli = null;
     RelatorioSintetico RelSintetico = this;
